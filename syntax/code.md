@@ -7,20 +7,15 @@ Voici un exemple :
 ```
 Ceci est un bloc de code 
 ```
+To create a code block in Markdown, simply identer each line of the block with at least 4 spaces or a tab.
 
-Afin de créer un bloc de code en Markdown, il suffit d'identer chaque ligne du bloc avec au moins 4 espaces ou une tabulation.
+For example :
 
-Par exemple :
+`` `
+This is a normal paragraph:
 
-```
-Ceci est un paragraphe normal:
-
-    Ceci est un bloc de code. 
-```
-
-Vous pouvez également créer un bloc de code separé avec:
-
-    ```
+     This is a code block.
+`` `
 
 ### Bloc de code en ligne
 
